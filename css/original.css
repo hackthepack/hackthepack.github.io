@@ -118,12 +118,6 @@ section {
   margin-right: 10px;
 }
 
-.hero .tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
-}
-
 .hero .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;

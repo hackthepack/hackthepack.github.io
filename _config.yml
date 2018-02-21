@@ -91,11 +91,14 @@ event:
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    - question: "What if I have another question that isn't answered here?"
+      answer: >
+        Email us at hackthepack2018@gmail.com or message us on Facebook!
 
   # This is the message you'll receive once you've registered.
   register:
     message: >
-      You'll receive more information closer to the hackathon.
+      Thanks for registering! You'll receive more information closer to the hackathon.
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --

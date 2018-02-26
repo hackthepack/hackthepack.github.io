@@ -42,7 +42,7 @@ event:
 
   hero:
     links:
-      - text: "Apply"
+      #- text: "Apply"
         #href: "/form.html"
         #my_mlh:
         #  client_id:    "837298bcc013372e89f4af4f8fe2901ed6c2c8d09edcc4743b9cbb08a0b11e83"

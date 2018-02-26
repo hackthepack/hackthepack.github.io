@@ -44,7 +44,7 @@ section {
   z-index: 10000;
 }
 
-/* 
+/*
  * Hero Section
  */
 
@@ -118,7 +118,7 @@ section {
   margin-right: 10px;
 }
 
-/* 
+/*
  * About Section
  */
 
@@ -238,6 +238,21 @@ section {
 .footer h3 a {
   color: #fff;
 }
+
+/*
+ * Typeform
+ */
+
+#typeform {
+  width: 100%;
+  vertical-align: baseline;
+  height: 80vh;
+  overflow: hidden;
+}
+
+/*
+ * Smaller Screens
+ */
 
 @media(max-width: 768px) {
   .hero .buttons a {

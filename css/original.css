@@ -53,7 +53,7 @@ section {
   padding-top: 30vh;
 }
 
-.hero .wrapper h1, .hero .wrapper a {
+.hero .wrapper h1 {
   background: #fff;
   background: rgba(255, 255, 255, .3);
   display: inline-block;
@@ -61,6 +61,11 @@ section {
   font-weight: 800;
   letter-spacing: -2px;
   padding: 10px 30px;
+}
+
+.hero .wrapper a {
+  color: #0F2C34;
+  text-decoration: none;
 }
 
 .hero .wrapper h2 {

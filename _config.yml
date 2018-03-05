@@ -40,13 +40,13 @@ event:
       - text: "Apply"
         href: "https://goo.gl/forms/dMlTRHGgEmMDSyn02"
       - text: "Sponsor"
-        href: "/sponsor.html"
+        href: "/development/sponsor.html"
       - text: "Contact"
         href: "mailto:hackthepack2018@gmail.com"
 
   about:
     description: >
-      A 24 hour student run hackathon at Northeastern University in Boston, MA. April 7-8 2018.\nApplications open March 1, 2018.
+      A 24 hour student run hackathon at Northeastern University in Boston, MA. April 7-8 2018. Applications open March 1, 2018.
 
   # Info Sections
   info:
@@ -85,6 +85,19 @@ event:
     - question: "What if I have another question that isn't answered here?"
       answer: >
         Email us at hackthepack2018@gmail.com!
+
+  # Sponsorship info
+  sponsor-info:
+    - question: "Intersted in working with us to make a great event?"
+      answer: >
+        Contact us at hackthepack2018@gmail.com to discuss opportunities.
+    - question: "Why should I sponsor a hackathon?"
+      answer: >
+        Hackathons are a great way to interact with students, to get feedback on products and APIs,
+        and to recruit young talent.
+    - question: "Why should I sponsor Hack the Pack?"
+      answer: >
+        HackThePack is grounded in diversity, and in bringing different student groups together to promote unique and collaborative projects that use tech to solve science-related problems.
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --

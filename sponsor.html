@@ -6,11 +6,16 @@ layout: default
 
 <section class="sponsor-info">
   <div class="container">
-    <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
-      <p>
-        Intersted in working with us to make a great event? Contact us at
-        <a href="mailto:hackthepack@gmail.com"></a>.
-      </p>
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        {% for item in site.event.sponsor-info %}
+        <div class="question col-xs-12 col-sm-12">
+          <h2>{{ item.question }}</h2>
+          <hr>
+          {{ item.answer | markdownify }}
+        </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </section>

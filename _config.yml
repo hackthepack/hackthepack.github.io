@@ -40,6 +40,8 @@ event:
       - text: "Apply"
         href: "https://goo.gl/forms/dMlTRHGgEmMDSyn02"
       - text: "Sponsor"
+        href: "/sponsor.html"
+      - text: "Contact"
         href: "mailto:hackthepack2018@gmail.com"
 
   about:

@@ -35,24 +35,16 @@ event:
   date:        "7/8 April 2018"
   location:    "Boston, MA, United States"
 
-  # trust_badge:
-  #   year:   "2018"  # season year
-  #   region: "na"    # "na" or "eu"
-  #   color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
-
   hero:
     links:
-      # - text: "Apply"
-      #   href: "/form.html"
-        #my_mlh:
-        #  client_id:    "837298bcc013372e89f4af4f8fe2901ed6c2c8d09edcc4743b9cbb08a0b11e83"
-        #  redirect_uri: "https://hackthepack.github.io/success.html"
+      - text: "Apply"
+        href: "https://goo.gl/forms/dMlTRHGgEmMDSyn02"
       - text: "Sponsor"
         href: "mailto:hackthepack2018@gmail.com"
 
   about:
     description: >
-      A 24 hour student run hackathon at Northeastern University in Boston, MA. April 7-8 2018. Applications open March 1, 2018.
+      A 24 hour student run hackathon at Northeastern University in Boston, MA. April 7-8 2018.\nApplications open March 1, 2018.
 
   # Info Sections
   info:
@@ -85,21 +77,12 @@ event:
     - question: "Where is the event?"
       answer: >
         The event is being hosted at Northeastern University.
-    # - question: "What is Major League Hacking?"
-    #   answer: >
-    #     Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-    #     We work with over 200 Member Events and empower over 70,000 students every year.
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We abide by the Major League Hacking Code of Conduct, and we enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
     - question: "What if I have another question that isn't answered here?"
       answer: >
-        Email us at hackthepack2018@gmail.com or message us on Facebook!
-
-  # This is the message you'll receive once you've registered.
-  register:
-    message: >
-      Thanks for registering! You'll receive more information closer to the hackathon.
+        Email us at hackthepack2018@gmail.com!
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --

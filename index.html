@@ -44,3 +44,21 @@ layout: default
     </div>
   </div>
 </section>
+
+<section class="sponsor-info">
+  <a name="sponsor-info"></a>
+  <div class="container">
+    <h1 class="text-center">Sponsor Information</h1>
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+        {% for item in site.event.sponsor-info %}
+        <div class="question col-xs-12 col-sm-12">
+          <h2>{{ item.question }}</h2>
+          <hr>
+          {{ item.answer | markdownify }}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

@@ -24,14 +24,14 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Hack the Pack | 7/8 April 2018"
-  description: "This is the website for Hack the Pack at Northeastern University, April 7/8 2018."
+  title:       "HackThePack | 7/8 April 2018"
+  description: "This is the website for HackThePack at Northeastern University, April 7/8 2018."
   # image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Hack the Pack"
-  description: "This is the website for Hack the Pack at Northeastern University, April 7/8 2018. Applications open March 1, 2018."
+  name:        "HackThePack"
+  description: "This is the website for HackThePack at Northeastern University, April 7/8 2018. Applications open March 1, 2018."
   date:        "7/8 April 2018"
   location:    "Boston, MA, United States"
 
@@ -95,7 +95,7 @@ event:
       answer: >
         Hackathons are a great way to interact with students, to get feedback on products and APIs,
         and to recruit young talent.
-    - question: "Why should I sponsor Hack the Pack?"
+    - question: "Why should I sponsor HackThePack?"
       answer: >
         HackThePack is grounded in diversity, and in bringing different student groups together to promote unique and collaborative projects that use tech to solve science-related problems.
 

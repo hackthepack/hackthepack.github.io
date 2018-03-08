@@ -34,6 +34,7 @@ event:
   description: "This is the website for HackThePack at Northeastern University, April 7/8 2018. Applications are now open!"
   date:        "7/8 April 2018"
   location:    "Boston, MA, United States"
+  logo:        "images/logo.png"
 
   hero:
     links:

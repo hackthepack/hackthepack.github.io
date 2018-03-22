@@ -210,6 +210,41 @@ section {
  * Schedule
  */
 
+ .schedule {
+   background-color: #fff;
+   margin-top: 15px;
+   padding: 100px 0;
+   position: relative;
+ }
+
+ .schedule h1 {
+   font-family: 'Montserrat';
+   font-weight: 700;
+   margin: 30px 0;
+ }
+
+ .schedule .event h2 {
+   font-family: 'Montserrat';
+   font-weight: 700;
+   font-size: 24px;
+ }
+
+ .schedule .event hr {
+   border-top: 8px solid #000;
+   margin: 20px 0;
+   width: 80px;
+ }
+
+ .schedule .event p {
+   font-size: 18px;
+   line-height: 1.5em;
+ }
+
+ .schedule img {
+   margin-bottom: -2px;
+   margin-top: 40px;
+   width: 300px;
+ }
 
 /*
  * Footer Section

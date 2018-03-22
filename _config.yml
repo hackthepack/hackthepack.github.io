@@ -87,6 +87,30 @@ event:
       answer: >
         Email us at [hackthepack2018@gmail.com](mailto:hackthepack2018@gmail.com)!
 
+  # schedule
+  schedule:
+    saturday:
+      - time: "8:30 AM"
+        title: "Registration"
+        location: "IV Basement"
+      - time: "9:30 AM"
+        title: "Opening Ceremonies"
+        location: "019 IV"
+      - time: "10:30 AM"
+        title: "Hacking Begins!"
+        location: "Hayden Hall"
+    sunday:
+      - time: "10:30 AM"
+        title: "Hacking Ends!"
+        location: "Hayden Hall"
+      - time: "10:30 AM"
+        title: "Project Demos Begin"
+        location: "Hayden Hall"
+      - time: "11:30 AM"
+        title: "Closing Ceremonies"
+        location: "TBD"
+
+
   # Sponsorship info
   sponsor-info:
     - question: "Intersted in working with us to make a great event?"

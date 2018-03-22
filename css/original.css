@@ -27,6 +27,7 @@ body {
 
 section {
   overflow-x:hidden;
+  background-color: #fff;
 }
 
 /*
@@ -204,6 +205,11 @@ section {
   margin-top: 40px;
   width: 300px;
 }
+
+/*
+ * Schedule
+ */
+
 
 /*
  * Footer Section

@@ -55,7 +55,7 @@ layout: default
         <div class="event col-xs-12 col-sm-12">
           <h2>{{ item.time }}</h2>
           <hr />
-          {{ item.title | markdownify }} @ {{ item.location | markdownify }}
+          {{ item.title | markdownify }} <span class="location">{{ item.location | markdownify }}</span>
         </div>
         {% endfor %}
       </div>

@@ -31,7 +31,7 @@ seo:
 # Event information.
 event:
   name:        "HackThePack"
-  description: "This is the website for HackThePack at Northeastern University, April 7/8 2018. Applications are now open!"
+  description: "Applications are now open!"
   date:        "7/8 April 2018"
   location:    "Boston, MA, United States"
   logo:        "images/logo.png"
@@ -47,7 +47,10 @@ event:
 
   about:
     description: >
-      A 24 hour student run hackathon at Northeastern University in Boston, MA. April 7-8 2018. Applications are now open!
+      "HackThePack is a 24 hour student run Hackathon open to all Northeastern students,
+      both graduates and undergraduates, taking place April 7-8.
+      We'll be running workshops on a variety of topics, from computing in the life sciences to data visualization.
+      We'll also have food and swag! Applications are now open!"
 
   # Info Sections
   info:

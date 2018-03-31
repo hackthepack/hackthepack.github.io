@@ -240,10 +240,10 @@ section {
    line-height: 1.5em;
  }
 
- .schedule .event .location:before {
+ /* .schedule .event .location:before {
    content: "@";
    margin-right: 6px;
- }
+ } */
 
  .schedule img {
    margin-bottom: -2px;

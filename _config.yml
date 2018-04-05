@@ -147,9 +147,12 @@ event:
   # Sponsorship info
   sponsor-info:
     sponsors:
-      -logo: "images/logo-ispe.jpg"
-      -logo: "images/logo-nuispe.jpg"
-      -logo: "images/logo-netra.jpg"
+      - name: "ISPE"
+        logo: "images/logo-ispe.jpg"
+      - name: "NU ISPE"
+        logo: "images/logo-nuispe.jpg"
+      - name: "Netra"
+        logo: "images/logo-netra.jpg"
     qa:
       - question: "Intersted in working with us to make a great event?"
         answer: >

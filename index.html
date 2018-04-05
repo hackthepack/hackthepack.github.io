@@ -90,6 +90,7 @@ layout: default
         <div class="logo col-xs-12 col-sm-12">
           <img src="{{ item.logo }}"/>
         </div>
+        {% endfor %}
         {% for item in site.event.sponsor-info.qa %}
         <div class="question col-xs-12 col-sm-12">
           <h2>{{ item.question }}</h2>

@@ -56,10 +56,11 @@ layout: default
         <div class="event col-xs-12 col-sm-12">
           <h2>{{ item.time }}</h2>
           <hr />
-          {{ item.title | markdownify }} @ {{ item.location }}
+          {{ item.title | markdownify }}
           {% if item. presenter %}
-            {{ item.presenter | markdownify }}
+            <p>{{ item.presenter }}</p>
           {% endif %}
+          <p>@ {{ item.location }}</p>
         </div>
         {% endfor %}
       </div>

@@ -58,9 +58,9 @@ layout: default
           <hr />
           {{ item.title | markdownify }}
           {% if item. presenter %}
-            <p>{{ item.presenter }}</p>
+            <p class="presenter">{{ item.presenter }}</p>
           {% endif %}
-          <p>@ {{ item.location }}</p>
+          <p class="location">@ {{ item.location }}</p>
         </div>
         {% endfor %}
       </div>

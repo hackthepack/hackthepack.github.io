@@ -240,6 +240,17 @@ section {
    line-height: 1.5em;
  }
 
+ .schedule .event .location {
+   font-size: 14px;
+   font-family: "Helvetica Neue";
+ }
+
+ .schedule .event .location {
+   font-size: 14px;
+   font-family: "Open Sans";
+   font-weight: 600;
+ }
+
  .schedule img {
    margin-bottom: -2px;
    margin-top: 40px;

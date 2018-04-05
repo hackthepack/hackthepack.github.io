@@ -119,7 +119,7 @@ event:
         location: "321 Hayden Hall"
       - time: "3 PM"
         title: "Workshop - Netra's Machine Learning API"
-        presenter: "Oliver Spohngartner, Co-op, Netra"
+        presenter: "Oliver Spohngartner, Machine Learning Co-op, Netra"
         location: "321 Hayden Hall"
       - time: "4 PM"
         title: "Speaker - Web-Based Data Visualization and Infographic Design"
@@ -127,7 +127,7 @@ event:
         location: "321 Hayden Hall"
       - time: "5 PM"
         title: "Workshop - Intro to Data Analysis with Python"
-        presenter: "Oliver Spohngellert, Co-op, Netra"
+        presenter: "Oliver Spohngellert, Machine Learning Co-op, Netra"
         location: "321 Hayden Hall"
       - time: "7 PM"
         title: "Dinner"
@@ -146,16 +146,21 @@ event:
 
   # Sponsorship info
   sponsor-info:
-    - question: "Intersted in working with us to make a great event?"
-      answer: >
-        Contact us at [hackthepack2018@gmail.com](mailto:hackthepack2018@gmail.com) to discuss opportunities.
-    - question: "Why should I sponsor a hackathon?"
-      answer: >
-        Hackathons are a great way to interact with students, to get feedback on products and APIs,
-        and to recruit young talent.
-    - question: "Why should I sponsor HackThePack?"
-      answer: >
-        HackThePack is grounded in diversity, and in bringing different student groups together to promote unique and collaborative projects that use tech to solve science-related problems.
+    sponsors:
+      -logo: "images/logo-ispe.jpg"
+      -logo: "images/logo-nuispe.jpg"
+      -logo: "images/logo-netra.jpg"
+    qa:
+      - question: "Intersted in working with us to make a great event?"
+        answer: >
+          Contact us at [hackthepack2018@gmail.com](mailto:hackthepack2018@gmail.com) to discuss opportunities.
+      - question: "Why should I sponsor a hackathon?"
+        answer: >
+          Hackathons are a great way to interact with students, to get feedback on products and APIs,
+          and to recruit young talent.
+      - question: "Why should I sponsor HackThePack?"
+        answer: >
+          HackThePack is grounded in diversity, and in bringing different student groups together to promote unique and collaborative projects that use tech to solve science-related problems.
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --

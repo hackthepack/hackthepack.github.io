@@ -243,11 +243,12 @@ section {
  .schedule .event .location {
    font-size: 14px;
    font-family: "Helvetica Neue";
+   font-weight: 0;
  }
 
  .schedule .event .presenter {
    font-size: 14px;
-   font-family: "Open Sans";
+   font-family: "Helvetica Neue";
    font-weight: 600;
  }
 

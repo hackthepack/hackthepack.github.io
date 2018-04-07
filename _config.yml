@@ -119,7 +119,7 @@ event:
         location: "321 Hayden Hall"
       - time: "3 PM"
         title: "Workshop - Netra's Machine Learning API"
-        presenter: "Oliver Spohngartner, Machine Learning Co-op, Netra"
+        presenter: "Oliver Spohngellert, Machine Learning Co-op, Netra"
         location: "321 Hayden Hall"
       - time: "4 PM"
         title: "Speaker - Web-Based Data Visualization and Infographic Design"
